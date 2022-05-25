@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @escapingtime
 - 👀 I’m interested in ... becoming a full time programmer.
-- 🌱 I’m currently learning ... on Harvard CS50 / FreeCodeAcademy.
+- 🌱 I’m currently learning ... on PythonCrashCourse / Harvard CS50 / FreeCodeAcademy.
 - 💞️ I’m looking to collaborate on ...unsure yet! Total noob right now
 
 <!---
